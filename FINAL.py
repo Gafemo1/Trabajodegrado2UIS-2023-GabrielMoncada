@@ -8,7 +8,7 @@ import numpy as np
 from datetime import datetime
 from PIL import Image
 
-HOME = "C:\\Users\\gabo1\\OneDrive - UNIVERSIDAD INDUSTRIAL DE SANTANDER\\Desktop\\Tesis\\Python\\Nueva carpeta\\Img\\" #Ruta de guardado de archivos.
+HOME = "" #Ruta de guardado de archivos.
 REGLAS_H ={}
 TREGLAS ={}
 COLORES_L={}
